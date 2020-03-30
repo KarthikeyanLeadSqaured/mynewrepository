@@ -1,1 +1,1 @@
-This is my first file in GIT Repository
+This is my first file in GIT Repository and commit.
